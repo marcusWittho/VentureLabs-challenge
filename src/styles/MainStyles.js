@@ -5,10 +5,12 @@ export const Container = styled.div`
   border: 1px solid #ccc;
   border-radius: 2rem;
   display: flex;
+  font-family: Poppins, sans-serif;
   margin: 10vh auto;
   height: 68vh;
-  width: 53vw;
-  `
+  width: 940px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+`;
 
 export const AsideRight = styled.aside`
   display: flex;
@@ -18,13 +20,7 @@ export const AsideRight = styled.aside`
   height: 100%;
   width: 62%;
 
-  h1 {
-    color: rgb(1, 235, 245);
-    font-size: 2rem;
-  }
-
   .logoVenturelabs {
-    background: rgb(1, 235, 245);
-    width: 21rem;
+    width: 26rem;
   }
-`
+`;

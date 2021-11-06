@@ -1,11 +1,9 @@
 import React from 'react';
-import { Button } from './ButtonsStyles';
+import { Button } from '../styles/ButtonsStyles';
 
-const Buttons = ({ text }) => {
+const Buttons = ({ text, func }) => {
   return (
-    <>
-      <Button>{ text }</Button>
-    </>
+    <Button type="button" onClick={ func }>{ text }</Button>
   )
 };
 
