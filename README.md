@@ -1,6 +1,11 @@
 Desafio proposto pela Venture Labs. :)
 
 
+![alt text](https://github.com/marcusWittho/VentureLabs-challenge/blob/master/src/images/print_1.png)
+
+![alt text](https://github.com/marcusWittho/VentureLabs-challenge/blob/master/src/images/print_2.png)
+
+
 Criar um web app simples usando React.js.
 A aplicação deve conter menu lateral com dois itens ( '+ Cadastrar' e 'Clientes' ).
 
