@@ -1,3 +1,6 @@
+Desafio proposto pela Venture Labs. :)
+
+
 Criar um web app simples usando React.js.
 A aplicação deve conter menu lateral com dois itens ( '+ Cadastrar' e 'Clientes' ).
 
@@ -24,4 +27,4 @@ Salvar (botão)
 
   No menu Clientes você deve exibir uma lista dos clientes cadastrados e permitir visualizar os dados ao clicar na linha.
 
-Capriche na UX.
+Capriche na UX. (Eu tentei, mas preciso estudar mais sobre isso)
